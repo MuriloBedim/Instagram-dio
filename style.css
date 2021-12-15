@@ -14,16 +14,6 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: right;
-}
-
-.geral{
-    width: 100%;
-    min-height: 100vh;
-    background-color: rgb(243, 243, 243);
-    margin: 0;
-    padding: 0;
-    display: flex;
     justify-content: center;
 }
 
@@ -33,6 +23,8 @@ body {
     align-items: center;
     overflow: hidden;
     border-radius: 50%;
+    width: 90px;
+    height: 90px;
 }
 
 .foto-perfil img {
