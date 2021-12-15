@@ -79,6 +79,7 @@ body {
     top: 7%;
     z-index: 1;
     height: 3rem;
+    size: 30px;
 }
 
 .instagram-login {
