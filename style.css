@@ -14,6 +14,16 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
+    justify-content: right;
+}
+
+.geral{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    display: flex;
     justify-content: center;
 }
 
@@ -154,4 +164,10 @@ body {
     .group {
         border: 1px solid transparent;
     }
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+    display: right;
 }
